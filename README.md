@@ -21,6 +21,7 @@ yarn add react-user-focus
 ## Usage
 
 react-user-focus can contain children, or be rendered simply by itself.
+https://www.patrick-wied.at/static/heatmapjs/docs.html#h337-create
 
 ```
 import ReactUserFocus from 'react-user-focus';
