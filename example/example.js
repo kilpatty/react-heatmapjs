@@ -1,12 +1,12 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
-var HeatmapjsReact = require('react-heatmapjs');
+import ReactUserFocus from '../lib/ReactHeatmap.js';
 
 var App = React.createClass({
 	render () {
 		return (
 			<div>
-				<HeatmapjsReact />
+				<ReactHeatmap />
 			</div>
 		);
 	}
