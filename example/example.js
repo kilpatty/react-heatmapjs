@@ -7,7 +7,7 @@ var App = React.createClass({
 		return (
 			<div>
 				<ReactHeatmap
-          className="hey"/>
+          className="heatmap"/>
 			</div>
 		);
 	}
